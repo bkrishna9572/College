@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Astra</string>
+    <string name="action_settings">Logout</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_attendance">Attendance</string>
+    <string name="title_activity_marks">Marks</string>
+    <string name="title_activity_library_transactions">LibraryTransactions</string>
+
+</resources>
